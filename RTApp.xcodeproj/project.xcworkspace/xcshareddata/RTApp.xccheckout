@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FE8691A5-D594-467E-A8B0-80A63FF46243</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RTApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>882d75f6-7aa6-054a-b581-aec5635b18e5</key>
+		<string>http://mx_ios_srv.rtmxdomain.road-track.com.mx:8088/svn/RTCMNAVIGATION</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/RTApp/RTApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>882d75f6-7aa6-054a-b581-aec5635b18e5</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>882d75f6-7aa6-054a-b581-aec5635b18e5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>882d75f6-7aa6-054a-b581-aec5635b18e5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RTCMNAVIGATION</string>
+		</dict>
+	</array>
+</dict>
+</plist>
